@@ -1,0 +1,46 @@
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 40px;
+  }
+  h2{
+    font-size: 30px;
+  }
+}
+h1{
+    color: purple;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    font-size: 45px; 
+    border-bottom: 1.5px solid black;
+}
+
+body{
+    font-family: Verdana;
+    background-color: #FDF6EC;
+}
+.contenedor{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+a{
+    text-decoration: underline;
+    color: #6A0DAD;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+li{
+    margin-bottom: 15px;
+}
+
