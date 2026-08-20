@@ -40,12 +40,12 @@ p{
     font-style: italic;
 }
 
-li{
-    margin-bottom: 15px;
-}
-
-image{
+img{
     max-width: 100%;
     height: auto;
 }
 
+
+li{
+    margin-bottom: 15px;
+}
